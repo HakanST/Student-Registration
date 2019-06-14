@@ -318,8 +318,7 @@ public class RegistrationSort {
 	   			tempCourse.setCourseCredits(courseCredits); //Temporary course object stores course credits of current course
 	   			tempCourse.setGrade(courseGrade); //Temporary course object stores grade received of current course
 	   			
-	   			//This code fragment was supposed to test whether the course numbers of two courses were equal or not but I was not able to successfully debug it.
-	    		//
+	   			//
 				while(true)
 				{
 	    			boolean sameCourseNumber = false;
